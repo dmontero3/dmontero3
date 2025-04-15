@@ -1,5 +1,2 @@
-- 👋 Hey I'm Dillon
-- 🌱 I’m a Math PhD from Tulane University doing research in Algebraic Coding Theory, with a focus on error-correction.
-- 👀 I like Math, and games (WoW, LoL, Overwatch, Hearthstone)
-- 🌴 I'm interested in learning coding. Current focus is on Python and SageMath
+Math PhD. My research focuses on algebraic coding theory with particular emphasis on error-correcting codes and their quantum applications. I investigate mathematical frameworks that enhance data integrity through novel coding structures, combining elements of abstract algebra and combinatorial theory. 
 
